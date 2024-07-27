@@ -1,0 +1,111 @@
+[
+{
+    "model": "api.advertisement",
+    "pk": 1,
+    "fields": {
+        "views_number": 7726,
+        "position": 1,
+        "author": "100 камер",
+        "title": "Установка Видеонаблюдение шлагбаум сигнализация обслуживание домофон во Владивостоке"
+    }
+},
+
+{
+    "model": "api.advertisement",
+    "pk": 2,
+    "fields": {
+        "views_number": 1368,
+        "position": 2,
+        "author": "ИП Якименко Алексей Андреевич",
+        "title": "Установка/обслуживание: видеонаблюдения, домофонов, СКУД, сигнализации во Владивостоке"
+    }
+},
+
+{
+    "model": "api.advertisement",
+    "pk": 3,
+    "fields": {
+        "views_number": 508,
+        "position": 3,
+        "author": "doneit",
+        "title": "Монтаж видеонаблюдения Hikvision HiWatch Trassir, СКУД, домофонов во Владивостоке"
+    }
+},
+
+{
+    "model": "api.advertisement",
+    "pk": 4,
+    "fields": {
+        "views_number": 1462,
+        "position": 4,
+        "author": "TVi MART",
+        "title": "Видеонаблюдение Установка Продажа Настройка Видеокамер IP во Владивостоке"
+    }
+},
+
+{
+    "model": "api.advertisement",
+    "pk": 5,
+    "fields": {
+        "views_number": 170,
+        "position": 5,
+        "author": "VideoKIT",
+        "title": "ВидеоКИТ - Системы видеонаблюдения, установка, обслуживание во Владивостоке"
+    }
+},
+
+{
+    "model": "api.advertisement",
+    "pk": 6,
+    "fields": {
+        "views_number": 118,
+        "position": 6,
+        "author": "Подряд",
+        "title": "Установим Видеодомофон в квартиру или частный дом! Видеонаблюдение во Владивостоке"
+    }
+},
+
+{
+    "model": "api.advertisement",
+    "pk": 7,
+    "fields": {
+        "views_number": 186,
+        "position": 7,
+        "author": "VLADREC",
+        "title": "Установка видеонаблюдения от Vladrec | Монтаж | Обслуживание | СКУД во Владивостоке"
+    }
+},
+
+{
+    "model": "api.advertisement",
+    "pk": 8,
+    "fields": {
+        "views_number": 95,
+        "position": 8,
+        "author": "AndreyVideo2016",
+        "title": "Установка видеонаблюдения. Монтаж Частный мастер во Владивостоке"
+    }
+},
+
+{
+    "model": "api.advertisement",
+    "pk": 9,
+    "fields": {
+        "views_number": 3894,
+        "position": 9,
+        "author": "Точка-Видео",
+        "title": "Продажа и установка видеонаблюдения. Монтаж любой сложности! Гарантия во Владивостоке"
+    }
+},
+
+{
+    "model": "api.advertisement",
+    "pk": 10,
+    "fields": {
+        "views_number": 1084,
+        "position": 10,
+        "author": "Точка-Видео",
+        "title": "Монтаж-установка систем Видеонаблюдения от 1000 руб. Гарантия 3 года во Владивостоке"
+    }
+}
+]
